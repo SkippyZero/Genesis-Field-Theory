@@ -32,7 +32,8 @@ I contributed:
 - the **halo model design**, including cored template behavior  
 - the **rotation-curve test design** (DM-only, DM+dust, extreme DM, etc.)  
 - the **life-detection scoring concept** based on halo stability  
-- the **curation**, organization, and integration** of all documents  
+- the **curation**, organization, and integration** of all documents
+- the **rotation-curve modeling** and comparisons across the SPARC dataset using AI-generated fitting tools
 
 I directed the AI step-by-step to build the mathematical formalism and scientific language around these ideas.
 
@@ -76,5 +77,5 @@ I can generate the license file for you.
 ---
 
 ## 🔷 Contact / Contribution
-Feedback, critiques, and extensions are welcome.  
+Feedback, critiques, and extensions are welcome.  The intent of publicizing this document is to allow individuals with expertise to review and test the ideas within this repository.
 If you use this material, please cite the repository and credit this project as a **human–AI collaborative work**.
