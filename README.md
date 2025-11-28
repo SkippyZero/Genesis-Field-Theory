@@ -65,6 +65,7 @@ Nothing here should be assumed to be:
 - a replacement for standard cosmological models  
 
 GenFT is presented as an **open-ended conceptual framework** rather than an established scientific theory.
+None of the models, equations, or results in this repository constitute validated physical laws. All rotation curve fits, halo models, and numerical results are experimental and should not be interpreted as empirical confirmation. This work is presented for transparency, reproducibility, and open scientific discussion.
 
 ---
 
