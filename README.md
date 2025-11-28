@@ -1,5 +1,5 @@
 # Genesis Field Theory (GenFT)
-### A Human–AI Collaborative Exploration of Emergent Cosmology
+### A Human–AI Assisted Exploration of Emergent Cosmology
 
 This repository presents **Genesis Field Theory (GenFT)** — a speculative emergent cosmology framework developed through a **human-guided, AI-assisted research process**.  
 The core *ideas*, *conceptual architecture*, *research direction*, and *experimental goals* were created by me.  
