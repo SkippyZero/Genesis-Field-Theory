@@ -80,6 +80,7 @@ See the `LICENSE` file for full details.
 ## 🔷 Contact / Contribution
 
 Feedback, critiques, and extensions are welcome. Contact Email: GenesisFieldTheory@outlook.com
+
 The intent of publicizing this repository is to allow individuals with expertise to review, test, and expand on the ideas presented here.
 
 If you use this material, please cite the repository and credit this project.
