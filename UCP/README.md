@@ -9,15 +9,18 @@ The purpose of releasing this material is to invite criticism, correction, and i
 ________________________________________
 ⚠️ Scientific Disclaimer (Please Read)
 
-This repository includes research created through a combination of:
+This repository contains research developed through a combination of:
 
-Human conceptual development (all core ideas and direction)
+Human conceptual development (all core ideas, motivation, and direction)
 
-AI-assisted formalization (mathematical exposition, documentation)
+AI-assisted formalization (mathematical exposition, derivations, documentation)
 
-Theory-based derivations (no known empirical tuning)
+Theory-based derivations (no known empirical tuning — to the best of my knowledge, the UCP used in the SPARC rotation-curve tests contains no empirical tuning to observational data)
 
-Independent numerical testing (rotation curve fits)
+Independent numerical testing (rotation-curve fitting and model comparison)
+
+This work is preliminary, unverified, and not peer-reviewed.
+All results should be considered experimental until independently reproduced and validated by experts.
 ________________________________________
 Because of this hybrid methodology:
 
