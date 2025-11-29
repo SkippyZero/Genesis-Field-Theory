@@ -170,19 +170,6 @@ Stable modes survive to become matter, fields, and cosmic structure.
 
 In this framework, dark matter is interpreted as one of the stable attractor modes.
 
-🧭 Why the Universe Has 3 Dimensions
-
-When the primordial symmetry broke, it generated vibration modes across many possible dimensionalities.
-
-But most dimensions are dynamically unstable:
-
-1D/2D cannot support stable long-range structures.
-
-4D, 5D, and higher tend to destabilize and blow up under evolution.
-
-In GenFT, only 3D waves are hypothesized to remain dynamically stable long-term, so 3D is what survives through the universal stability collapse.
-
-This is why our universe appears to be three-dimensional—not by choice, but by selective stability.
 
 
 
