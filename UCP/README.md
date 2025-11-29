@@ -229,3 +229,5 @@ testable
 not yet validated
 
 The goal is not to assert correctness, but to enable open scientific analysis.
+
+SPARC data can be found here: https://astroweb.cwru.edu/SPARC/
