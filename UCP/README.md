@@ -15,7 +15,7 @@ Human conceptual development (all core ideas and direction)
 
 AI-assisted formalization (mathematical exposition, documentation)
 
-Theory-based derivations (no empirical tuning)
+Theory-based derivations (no known empirical tuning)
 
 Independent numerical testing (rotation curve fits)
 ________________________________________
